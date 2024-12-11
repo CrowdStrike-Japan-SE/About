@@ -1,2 +1,2 @@
 # About
-このアカウントの説明です。
+CrowdStrike Japan SEが作成したスクリプト等です。
